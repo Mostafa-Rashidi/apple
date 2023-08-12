@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* a{
+    text-decoration: none;
+    color: #2b2b2b;
+} */
+/* li{
+    list-style: none;
+} */
+.w-vw100{
+    width: 100vw;
+}
+.h-product{
+    height: 590px;
+}
+.h-slider{
+    height: 500px;
+}
+.w-product{
+    width: 49%;
+}
+.position-abs{
+    position: absolute;
+    left: 0;
+}
+    div.product>div a:hover{
+    color: blueviolet;
+    }
+.bg-image-1{
+    background-image: url("../image/product/child-1/hero_iphone14pro_spring__9xo85pm6sbmm_large_2x.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    /* background-attachment: ; */
+    background-size: cover;
+}
+.bg-image-2{
+    background-image: url("../image/product/child-2/hero_iphone14_yellow__eun20sn4imi6_large_2x.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-image-3{
+    background-image: url("../image/product/child-3/hero_apple_watch_series_8_spring__b1y8wb7xjc9y_large_2x.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-image-4-1{
+    background-image: url("../image/product/child-4/1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-image-4-2{
+    background-image: url("../image/product/child-4/2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-image-5-1{
+    background-image: url("../image/product/child-5/1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-image-5-2{
+    background-image: url("../image/product/child-5/2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-image-6-1{
+    background-image: url("../image/product/child-6/1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-image-6-2{
+    background-image: url("../image/product/child-6/2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
